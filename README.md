@@ -3,6 +3,7 @@ I am a software developer, graduated in Computer Science in October 2020.
 I am attending the UniBo's Computer Science Master course in Cesena.
 I am open to collaborations and looking forward to live a happy life.
 
+
 📫 Contact me on:
 - E-Mail -> simone.romagnoli10@studio.unibo.it
 - Facebook -> https://www.facebook.com/srromagnoli
