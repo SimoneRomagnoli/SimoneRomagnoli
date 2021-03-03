@@ -1,8 +1,13 @@
-```java
-while(true) {
-  smile();
-}
-```
+### Hi there
+I am a software developer, graduated in Computer Science in October 2020.
+I am attending the UniBo's Computer Science Master course in Cesena.
+I am open to collaborations and looking forward to live a happy life.
+
+📫 Contact me on:
+- E-Mail -> simone.romagnoli10@studio.unibo.it
+- Facebook -> https://www.facebook.com/srromagnoli
+- Instagram -> https://www.instagram.com/_simone_romagnoli/
+
 <!--
 **SimoneRomagnoli/SimoneRomagnoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
