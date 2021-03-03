@@ -1,17 +1,7 @@
-### Hi there 😄😄😄
-
-
-```c
-while(true) {
-  smile();
-}
+```python
+while(true) 
+  smile()
 ```
-
-
-📫 Contact me on:
-- E-Mail -> simone.romagnoli10@studio.unibo.it
-- Facebook -> facebook.com/srromagnoli
-- Instagram -> instagram.com/_simone_romagnoli/
 
 <!--
 **SimoneRomagnoli/SimoneRomagnoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
