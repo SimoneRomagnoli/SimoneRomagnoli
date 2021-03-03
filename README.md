@@ -5,10 +5,6 @@ I am attending the UniBo's Computer Science Master course in Cesena.
 
 I am open to collaborations and looking forward to live a happy life.
 
-
-
-
-
 📫 Contact me on:
 - E-Mail -> simone.romagnoli10@studio.unibo.it
 - Facebook -> facebook.com/srromagnoli
