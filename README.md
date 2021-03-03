@@ -1,9 +1,13 @@
-### Hi there
-I am a software developer, graduated in Computer Science in October 2020.
+### Hi there 😄😄😄
 
-I am attending the UniBo's Computer Science Master course in Cesena.
 
-I am open to collaborations and looking forward to live a happy life.
+```java
+Person you = new Visitor();
+while(true) {
+  you.mustSmile();
+}
+```
+
 
 📫 Contact me on:
 - E-Mail -> simone.romagnoli10@studio.unibo.it
