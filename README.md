@@ -1,7 +1,7 @@
 ### Hi there 😄😄😄
 
 
-```java
+```Java
 public Person you = new Visitor();
 while(true) {
   you.mustSmile();
