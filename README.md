@@ -1,5 +1,5 @@
 ```python
-while(true) 
+while(True) 
   smile()
 ```
 
