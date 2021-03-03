@@ -1,10 +1,9 @@
 ### Hi there 😄😄😄
 
 
-```Java
-public Person you = new Visitor();
+```c
 while(true) {
-  you.mustSmile();
+  smile();
 }
 ```
 
