@@ -2,7 +2,7 @@
 
 
 ```java
-Person you = new Visitor();
+public Person you = new Visitor();
 while(true) {
   you.mustSmile();
 }
