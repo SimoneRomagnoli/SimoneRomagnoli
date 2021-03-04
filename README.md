@@ -1,6 +1,6 @@
 ```python
 while True: 
-  smile(" :D ")
+  smile()
 ```
 
 <!--
