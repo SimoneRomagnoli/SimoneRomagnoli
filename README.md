@@ -4,7 +4,8 @@ Master Student in Computer Science at University of Bologna - Cesena campus.
 
 ## Contacts
 
- - Email: simone.romagnoli.21@gmail.com
+ - Personal Email: simone.romagnoli.21@gmail.com
+ - Academic Email: simone.romagnoli10@studio.unibo.it
 
 ## Code stats
 
